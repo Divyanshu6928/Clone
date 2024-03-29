@@ -6,7 +6,9 @@
     overflow-x: hidden;
 }
 
-
+body{
+    background-color: rgb(230, 226, 221);
+}
 .nav{
     display: flex;
     justify-content: space-between;
@@ -191,7 +193,7 @@
 
 .justlaunched{
     background-color: rgb(230, 226, 221);
-    margin-bottom: 60px;
+    
 }
 
 .jl{
@@ -235,4 +237,8 @@
     border-top-right-radius: 0%;
 }
 
-
+.whatsapp{
+    background-color: rgb(230, 226, 221);
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
