@@ -1,0 +1,200 @@
+*{    
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 520;   
+    background-color: #151515;
+    color: antiquewhite;
+}
+
+.nav a{
+    color: antiquewhite;
+}
+
+.abc,.xyz{
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.logo{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.abc:hover{
+    color: rgb(168, 176, 176);
+}
+.pic1{
+    background-color: #151515;
+}
+
+.img1{
+    margin-top: 10px;
+    margin-bottom: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 10px;
+    }
+
+.one{
+    position: absolute;
+    margin: 150px;
+    margin-left: 1050px;
+    margin-top: 220px;
+    top: 5px;
+    left: 5px;
+    font-size: 20px;
+    color: antiquewhite;
+    font-weight: 300;
+}
+
+.two{
+    position: absolute;
+    margin: 150px;
+    margin-left: 1050px;
+    margin-top: 250px;
+    top: 5px;
+    left: 5px;
+    font-size: 20px;
+    color: antiquewhite;
+    font-size: 45px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.three{
+        position: absolute;
+        top: 0px;
+        margin-left: 1050px;
+        margin-top: 470px;
+        padding: 20px;
+        font-size: 20px;
+        border-radius: 15%;
+        border: 2px solid #fff;
+}
+
+.three:hover{
+    background-color: transparent;
+    color: #fff;
+}
+
+.mno h1{
+    font-size: 50px;
+    margin: 20px;
+    margin-left: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.explore h3{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mno,.explore{
+    background-color: rgb(230, 226, 221);
+}
+
+.soundbar{
+    margin-left: 40px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    margin-bottom: 100px;
+}
+
+.text{
+    position: absolute;
+    top: 0px;
+    margin-top:1040px;
+    margin-left: 60px;
+}
+
+.text1{
+    position: absolute;
+    top: 0px;
+    margin-top:1040px;
+    margin-left: 310px;
+}
+
+.text2{
+    position: absolute;
+    top: 0px;
+    margin-top:1040px;
+    margin-left: 550px;
+}
+
+.text3{
+    position: absolute;
+    top: 0px;
+    margin-top:1040px;
+    margin-left: 800px;
+}
+
+.text4{
+    position: absolute;
+    top: 0px;
+    margin-top:1040px;
+    margin-left: 1050px;
+}
+
+.text5{
+    position: absolute;
+    top: 0px;
+    margin-top:1040px;
+    margin-left: 1290px;
+}
+
+.vid{
+    background-color: rgb(230, 226, 221);
+}
+
+.video{
+    margin: 25px;
+    border-radius: 15px;
+    margin-bottom: 60px;
+}
+
+.stars{
+    background-color: rgb(230, 226, 221);
+}
+
+.ek,.do,.teen{
+    border-radius: 10px;
+}
+
+.star1{
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
+    justify-content: space-around;
+    margin-bottom: 200px;
+}
+
+.star1 a{
+    margin-right: 40px;
+}
+
+.justlaunched{
+    background-color: rgb(230, 226, 221);
+}
+
+.jl{
+    margin-left: 42px;
+    font-size: 35px;
+    font-weight: bolder;
+}
