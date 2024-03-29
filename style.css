@@ -285,3 +285,7 @@ body{
 .end h5{
     color: #808080 ;
 }
+
+h5{
+    text-align: center;
+}
