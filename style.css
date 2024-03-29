@@ -242,3 +242,46 @@ body{
     margin-top: 60px;
     margin-bottom: 120px;
 }
+
+.dr{
+    margin-top: 40px;
+    margin-bottom: 120px;
+}
+
+.dream span{
+    color: rgb(177, 166, 11);
+}
+
+.dream{
+    text-align: center;
+}
+
+.khatam{
+    background-color: #fff;
+}
+
+.end{
+    line-height: 40px;
+    margin: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.done{
+    padding: 12px;
+    border-radius: 5px;
+}
+
+.mail{
+    background-color: #dcdcdc;
+    margin: 40px;
+    padding: 10px;
+}
+
+.done:hover{
+    background-color: #adff2f;
+}
+
+.end h5{
+    color: #808080 ;
+}
