@@ -191,6 +191,7 @@
 
 .justlaunched{
     background-color: rgb(230, 226, 221);
+    margin-bottom: 60px;
 }
 
 .jl{
@@ -198,3 +199,40 @@
     font-size: 35px;
     font-weight: bolder;
 }
+
+.first,.second,.third,.four,.five{
+    margin-left: 30px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    /* box-shadow: 5px 5px 2px 5px #000; */
+}
+
+.jll{
+    margin-left: 20px;
+    margin-top: 40px;
+    
+}
+
+.textjl{
+    margin-left: 49px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textjl1,.textjl2,.textjl3,.textjl4,.textjl5{
+    border: 10px solid #000;
+    max-width: 250px;
+    background-color: #fff;;
+    margin: 0px;
+    border-width: 10px;
+    border-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    border-bottom: 50px;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+}
+
+
